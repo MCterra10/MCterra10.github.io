@@ -1,0 +1,23 @@
+body {
+    font-size: 14px;
+	font-family: "arial";
+	color: #20b2aa;
+	background-color: #fdfdfd;
+	text-align: center;
+}
+
+h1 {
+	font-family: "helvetica";
+	color: #1b849a;
+}
+
+h2 {
+	color: #29bddd;
+	font-family: "helvetica";
+}
+
+a {
+	color: #003bdd;
+	font-family: "courier new";
+	font-weight: bold;
+}
